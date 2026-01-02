@@ -1,0 +1,1 @@
+In this project of cisco packet tracer i create multiple office and create different network and done OSPF routing between the areas and also add a DHCP & WEB server from headoffice also host a website with the help of Dns server .
