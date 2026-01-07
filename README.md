@@ -1,1 +1,11 @@
-In this project of cisco packet tracer i create multiple office and create different network and done OSPF routing between the areas and also add a DHCP & WEB server from headoffice also host a website with the help of Dns server .
+Multi-Site Enterprise Network Design 
+
+Designed and implemented a 5-location enterprise network with centralized Head Office architecture
+
+Configured DHCP relay, DNS, and Web services for all branch offices
+
+Implemented extended ACLs to control inter-office ICMP access
+
+Planned and documented IP addressing scheme for multiple subnets
+
+Tested end-to-end connectivity and name resolution . 
